@@ -1,0 +1,19 @@
+    __  __________  _____       ______          __             __
+   / / / /_  __/  |/  / /      / ____/___ ___  / /_  ___  ____/ /
+  / /_/ / / / / /|_/ / /      / __/ / __ `__ \/ __ \/ _ \/ __  / 
+ / __  / / / / /  / / /___   / /___/ / / / / / /_/ /  __/ /_/ /  
+/_/ /_/ /_/ /_/  /_/_____/  /_____/_/ /_/ /_/_.___/\___/\__,_/   
+
+Github - https://github.com/sabhiram/sublime-html-embed
+
+Thank you for installing the HTML Embed
+
+Usage is as follows:
+To convert from HTML to Embedable lines (or vice versa):
+1. Select some HTML (or embeded lines)
+2. Press [super +] ctrl + alt + H
+
+Version 1.0.0
+✔ Implements basic plugin functionality
+✔ Ready for package control deployment
+

@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+alt+h"],
+        "command": "toggle_html_embed"
+    }
+]
